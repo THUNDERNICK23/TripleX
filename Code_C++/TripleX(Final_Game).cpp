@@ -20,7 +20,7 @@ void PrintIntroduction(int Difficulty)
     cout<<"######################################";
     cout<<endl;
     cout<<endl;
-    cout<<"        Current Level: "<<Difficulty;
+    cout<<"        Current Level: "<<Difficulty - 4;
     cout<<endl;
     cout<<endl;
     cout<<"######################################";
