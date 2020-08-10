@@ -85,7 +85,7 @@ int main()
 {
     srand(time(NULL));
     
-    const int MaxDifficulty = 8;
+    const int MaxDifficulty = 15;
     
     int LevelDifficulty = 5;
     
